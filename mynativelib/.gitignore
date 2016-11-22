@@ -1,0 +1,5 @@
+*.o
+main
+*.swp
+*.so
+*.o.d

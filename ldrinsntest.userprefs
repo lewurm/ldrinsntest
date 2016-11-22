@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8BA56F0B-302B-4C22-B7D3-DD3F0B46B6B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ldrinsntestuidriver/Tests.cs">
+    <Files>
+      <File FileName="ldrinsntest/MainActivity.cs" Line="23" Column="4" />
+      <File FileName="ldrinsntestuidriver/Tests.cs" Line="30" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ldrinsntest PreferredExecutionTarget="Android.mono3" />
+</Properties>
